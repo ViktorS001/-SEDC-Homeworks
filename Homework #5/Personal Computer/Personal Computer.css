@@ -1,0 +1,35 @@
+.parent{
+    background-color: #41b3a3;
+    display: block;
+    border-radius: 25px; 
+    padding: 10px;
+    margin-top: 1%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+#hardware1,#hardware2,#hardware3,#hardware4,#hardware5,#hardware6,#hardware7{
+    display: flex;
+    flex-flow: column wrap ;
+    justify-content: center;
+    font-size: 25px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    border-radius: 6px;
+    padding: 10px;
+    text-align: center;
+    transition: background 0.1s linear .1s ease 1s;
+}
+
+#hardware1:hover, #hardware2:hover, #hardware3:hover, #hardware4:hover, #hardware5:hover, #hardware6:hover, #hardware7:hover{
+    background-color:  #e27d60;
+  }
+  
+  #hardware1:link, #hardware2:link, #hardware3:link, #hardware4:link, #hardware5:link, #hardware6:link, #hardware7:link{
+    color: white;
+    text-decoration: none;
+  }
+  
+  #hardware1:visited, #hardware2:visited, #hardware3:visited, #hardware4:visited, #hardware5:visited, #hardware6:visited, #hardware7:visited{
+      color:white;
+  }

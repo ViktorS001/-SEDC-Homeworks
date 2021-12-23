@@ -1,0 +1,204 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+			<title>Working with multi-level nested HTML lists</title>
+	</head>
+		
+	<body>
+				<h1 id="Top"><u>This is an example of a <q>5-level nested child list</q></u></h1>
+				
+				
+				
+		<ol type="I">	
+				<br/><li><b id="N1">NestedList 1</b></li>
+				<ul>
+					<strong>
+						<li>Firstlevel
+					</strong>
+				<ul>
+					<em>
+						<li>Firstlevel 1.1</li>
+						<li>Firstlevel 1.2
+					</em>
+						
+				</ul>
+				</li>
+				</ul>
+					
+					
+					
+					
+
+				<hr/><br/><li id="N2"><b>NestedList 2</b></li>
+				<ul>
+					<strong>
+						<li>Firstlevel
+					</strong>
+				<ul>
+					<em>
+						<li>Firstlevel 1.1</li>
+						<li>Firstlevel 1.2</li>
+					</em>
+				</ul>
+				</ul>
+				<ul>
+					<strong>
+						<li>Secondlevel
+					</strong>
+						</li>
+				</ul>
+				</li>
+					
+					
+					
+				<hr/><br/><li id="N3"><b>NestedList 3</b></li>
+				<ul>
+					<strong>
+						<li>Firstlevel
+					</strong>
+				<ul>
+					<em>
+						<li>Firstlevel 1.1</li>
+						<li>Firstlevel 1.2</li>
+					</em>
+					
+				</ul>
+				</li>
+				</ul>
+				<ul>
+					<strong>
+						<li>Secondlevel
+					</strong>
+				<ul>
+					<em>
+						<li>Secondlevel 1.1</li>
+						<li>Secondlevel 1.2 
+					</em>
+						</li>
+				</ul>
+				</ul>
+				
+					
+					
+					
+					
+				<hr/><br/><li id="N4"><b>NestedList 4</b></li>
+				<ul>
+					<strong>
+						<li>Firstlevel
+					</strong>
+				<ul>
+					<em>
+						<li>Firstlevel 1.1</li>
+						<li>Firstlevel 1.2</li>
+					</em>
+					</ul>
+					</li>
+					</ul>
+				<ul>
+					<strong>
+						<li>Secondlevel</li>
+					</strong>
+				<ul>
+					<em>
+						<li>Secondlevel 1.1</li>
+						<li>Secondlevel 1.2</li>
+					</em> 
+				<ul>
+					<em>
+						<li>Secondlevel 1.2.1</li>
+						<li>Secondlevel 1.2.2
+					</em>
+						</li>
+				</ul>
+				</ul>
+				</ul>
+				
+				
+				
+				<hr/><br/><li id="N5"><b>NestedList 5</b></li>
+				<ul>
+					<strong>
+						<li>Firstlevel
+					</strong>
+				<ul>
+					<em>
+						<li>Firstlevel 1.1</li>
+						<li>Firstlevel 1.2</li>
+					</em>
+				</ul>
+						</li>
+				</ul>
+				
+				<ul>
+					<strong>
+						<li>Secondlevel</li>
+					</strong>
+				<ul>
+					<em>
+						<li>Secondlevel 1.1</li>
+						<li>Secondlevel 1.2</li>
+					</em> 
+				<ul>
+					<em>
+						<li>Secondlevel 1.2.1</li>
+						<li>Secondlevel 1.2.2
+					</em>
+						</li>
+				</ul>
+				</ul>
+				</ul>
+				
+				<ul>
+					<strong>
+						<li>Thirdlevel</li>
+					</strong>
+					
+				
+				<ul>
+					<em>
+						<li>Thirdlevel 1.1</li>
+						<li>Thirdlevel 1.2</li>
+					</em> 
+				<ul>
+					<em>
+						<li>Thirdlevel 1.2.1</li>
+						<li>Thirdlevel 1.2.2</li>
+					</em>
+				<ul>
+					<em>
+						<li>Thirdlevel 1.2.2.1</li>
+						<li>Thirdlevel 1.2.2.2</li>
+					</em> 
+				<ul>
+					<em>
+						<li>Thirdlevel 1.2.2.2.1</li>
+						<li>Thirdlevel 1.2.2.2.2</li>
+					</em>
+				<ul>
+					<em>
+						<li>Thirdlevel 1.2.2.2.2.1</li>
+						<li>Thirdlevel 1.2.2.2.2.2</li>
+					</em> 
+				</ul>
+				</ul>
+				</ul>
+				</ul>
+				</ul>
+
+				
+		</ol>
+		<img src="Images/img2.jpeg" alt="Just me writing this code" />
+		<p><a href="#TOP"> Return to the top of the page</a></p>
+		<p><a href="#N1"> Return to the NestedList1</a></p>
+		<p><a href="#N2"> Return to the NestedList2</a></p>
+		<p><a href="#N3"> Return to the NestedList3</a></p>
+		<p><a href="#N4"> Return to the NestedList4</a></p>
+		<p><a href="#N5"> Return to the NestedList5</a></p>
+		<p><a href="mailto:viktorstefanovski9@gmail.com"target="_blank">Email</a></p>
+					
+		<p><small> All Rights reserved. Viktor's nested lists 2021</small></p>
+	</body>
+
+</html>		

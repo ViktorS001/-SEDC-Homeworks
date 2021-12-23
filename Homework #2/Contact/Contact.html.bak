@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+			<p> </p>
+	</head>
+		
+		<body>	
+			<h3>Email us if you have any projects or fun ideas about future projects.</h3>
+
+
+            <map name="Email">
+                <area shape="rect" coords="90,175,70" href="left.html">
+                <area shape="circle" coords="325,175,70" href="right.html">
+              </map>
+              <img usemap="#Email" src="../Images/Email.jpg" alt="email picture" width="500">
+			  <p>*Click on the Gmail icon for Gmail adress or click on the Yahoo mail icon for Yahoo mail adress</p>
+
+
+			<p><a href="../About us/About us.html">About us</a></p>
+			<h4><a href="../Home.html">Return to Home Page</a></h4>
+				
+				
+		</body>
+
+</html>		
