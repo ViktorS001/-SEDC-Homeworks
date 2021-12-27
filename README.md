@@ -1,1 +1,1 @@
-# -SEDC-Homeworks
+# SEDC-Homeworks
