@@ -17,7 +17,9 @@ function sumOfArrayElements(numberArray, element) {
   for (let i = 0; i < numberArray.length; i++) {
     sum += numberArray[i];
   }
-  element.innerHTML += `<p>The sum of the array elements is: ${sum}</p>`;
+  element.innerHTML += `<p>The sum of the array elements is: 
+   ${array[0]} + ${array[1]} + ${array[2]} + ${array[3]} + ${array[4]} + ${array[5]}
+ + ${array[6]} + ${array[7]} + ${array[8]}  + ${array[9]} = ${sum}</p>`;
 }
 
 printNumbers(array, contentDiv);
